@@ -24,5 +24,11 @@ namespace testLisa
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Hej");
+            MessageBox.Show("Testar att spara");
+        }
     }
 }
