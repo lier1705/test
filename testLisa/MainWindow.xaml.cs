@@ -29,6 +29,8 @@ namespace testLisa
         {
             MessageBox.Show("Hej");
             MessageBox.Show("Testar att spara");
+
+            MessageBox.Show("Ska synka med GitHub nu");
         }
     }
 }
